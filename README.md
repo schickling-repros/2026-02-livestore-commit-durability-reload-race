@@ -27,4 +27,4 @@ With this repro configuration, the first reload typically restores an empty draf
 
 ## Related Issue
 
-- TBD
+- https://github.com/livestorejs/livestore/issues/1064
